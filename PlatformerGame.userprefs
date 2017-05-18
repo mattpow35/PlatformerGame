@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{FD122078-BCC9-41FD-B3D8-2AA8DB396F40}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerGame/Model/Level.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerGame/Controller/Program.cs">
     <Files>
-      <File FileName="PlatformerGame/Controller/PlatformerGame.cs" Line="19" Column="2" />
+      <File FileName="PlatformerGame/Controller/PlatformerGame.cs" Line="18" Column="21" />
       <File FileName="PlatformerGame/View/Animation.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/View/AnimationPlayer.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Model/Circle.cs" Line="1" Column="1" />
-      <File FileName="PlatformerGame/Model/Enemy.cs" Line="1" Column="1" />
+      <File FileName="PlatformerGame/Model/Enemy.cs" Line="20" Column="6" />
       <File FileName="PlatformerGame/Model/Gem.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Model/Level.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Model/Player.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Model/RectangleExtensions.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Model/Tile.cs" Line="1" Column="1" />
+      <File FileName="PlatformerGame/Controller/Program.cs" Line="14" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
