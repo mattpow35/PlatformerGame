@@ -53,6 +53,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Icon.png" />
+    <None Include="View\Background.png" />
+    <None Include="View\GameThumbnail.png" />
+    <None Include="View\Game.ico" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Icon.ico" />
