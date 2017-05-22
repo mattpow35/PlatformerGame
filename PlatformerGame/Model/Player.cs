@@ -135,7 +135,7 @@ namespace Platformer
             // Load animated textures.
             idleAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/obiWanIdle"), 0.1f, true);
             runAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/obiWanWalk"), 0.1f, true);
-            jumpAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/Jump"), 0.1f, false);
+			jumpAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/obi wan jump (1)"), 0.1f, false);
             celebrateAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/Celebrate"), 0.1f, false);
             dieAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/Die"), 0.1f, false);
 
