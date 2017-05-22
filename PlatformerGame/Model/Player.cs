@@ -148,7 +148,7 @@ namespace Platformer
 
             // Load sounds.            
             killedSound = Level.Content.Load<SoundEffect>("Sounds/PlayerKilled");
-            jumpSound = Level.Content.Load<SoundEffect>("Sounds/PlayerJump");
+            jumpSound = Level.Content.Load<SoundEffect>("Sounds/iHaveTheHighGround");
             fallSound = Level.Content.Load<SoundEffect>("Sounds/PlayerFall");
         }
 

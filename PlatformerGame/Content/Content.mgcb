@@ -569,3 +569,27 @@
 /processorParam:TextureFormat=Color
 /build:Sprites/Player/obi wan jump (1).png
 
+#begin Sounds/anakinVsObiwan.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Sounds/anakinVsObiwan.mp3
+
+#begin Sounds/iHaveTheHighGround.mov
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/iHaveTheHighGround.mov
+
+#begin Backgrounds/lavaBackGround.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Backgrounds/lavaBackGround.png
+
