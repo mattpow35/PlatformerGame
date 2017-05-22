@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{FD122078-BCC9-41FD-B3D8-2AA8DB396F40}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerGame/Controller/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlatformerGame/Model/Player.cs">
     <Files>
       <File FileName="PlatformerGame/Controller/PlatformerGame.cs" Line="18" Column="21" />
       <File FileName="PlatformerGame/View/Animation.cs" Line="1" Column="1" />
