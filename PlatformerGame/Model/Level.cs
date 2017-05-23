@@ -195,13 +195,13 @@ namespace Platformer
 
                 // Various enemies
                 case 'A':
-                    return LoadEnemyTile(x, y, "MonsterA");
+                    return LoadEnemyTile(x, y, "Anakin");
                 case 'B':
-                    return LoadEnemyTile(x, y, "MonsterB");
+                    return LoadEnemyTile(x, y, "Stormtrooper");
                 case 'C':
-                    return LoadEnemyTile(x, y, "MonsterC");
+                    return LoadEnemyTile(x, y, "Anakin");
                 case 'D':
-                    return LoadEnemyTile(x, y, "MonsterD");
+                    return LoadEnemyTile(x, y, "Anakin");
 
                 // Platform block
                 case '~':
