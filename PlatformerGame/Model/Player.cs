@@ -137,7 +137,7 @@ namespace Platformer
             runAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/obiWanWalk"), 0.1f, true);
 			jumpAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/obi wan jump (1)"), 0.1f, false);
 			celebrateAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/obi wan jump (1)"), 0.1f, false);
-            dieAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/Die"), 0.1f, false);
+			dieAnimation = new Animation(Level.Content.Load<Texture2D>("Sprites/Player/obiWanDying(1)"), 0.1f, false);
 
             // Calculate bounds within texture size.            
             int width = (int)(idleAnimation.FrameWidth * 0.4);
