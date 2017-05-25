@@ -485,7 +485,11 @@ namespace Platformer
         {
             Player.OnReachedExit();
             exitReachedSound.Play();
-            reachedExit = true;
+			if(gems.Count == 0)
+			{
+				reachedExit = true;
+			}
+            
         }
 
         /// <summary>
