@@ -73,7 +73,7 @@ namespace Platformer
         private const float MaxJumpTime = 0.35f;
         private const float JumpLaunchVelocity = -3500.0f;
         private const float GravityAcceleration = 3400.0f;
-        private const float MaxFallSpeed = 550.0f;
+        private const float MaxFallSpeed = 50.0f;
         private const float JumpControlPower = 0.14f; 
 
         // Input configuration
