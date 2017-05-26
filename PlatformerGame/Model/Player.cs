@@ -71,9 +71,9 @@ namespace Platformer
 
         // Constants for controlling vertical movement
         private const float MaxJumpTime = 0.35f;
-        private const float JumpLaunchVelocity = -3500.0f;
+        private const float JumpLaunchVelocity = -5500.0f;
         private const float GravityAcceleration = 3400.0f;
-        private const float MaxFallSpeed = 75.0f;
+        private const float MaxFallSpeed = 550.0f;
         private const float JumpControlPower = 0.14f; 
 
         // Input configuration
@@ -147,7 +147,7 @@ namespace Platformer
             localBounds = new Rectangle(left, top, width, height);
 
             // Load sounds.            
-            killedSound = Level.Content.Load<SoundEffect>("Sounds/PlayerKilled");
+            killedSound = Level.Content.Load<SoundEffect>("Sounds/iHaveABadFeeling");
             jumpSound = Level.Content.Load<SoundEffect>("Sounds/iHaveTheHighGround");
             fallSound = Level.Content.Load<SoundEffect>("Sounds/PlayerFall");
         }

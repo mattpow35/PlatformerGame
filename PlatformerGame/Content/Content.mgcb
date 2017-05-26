@@ -677,3 +677,9 @@
 /processorParam:TextureFormat=Color
 /build:Sprites/Player/obiWanDying(1).png
 
+#begin Sounds/iHaveABadFeeling
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/iHaveABadFeeling
+
