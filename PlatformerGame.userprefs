@@ -6,9 +6,9 @@
       <File FileName="PlatformerGame/View/AnimationPlayer.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Model/Circle.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Model/Enemy.cs" Line="20" Column="6" />
-      <File FileName="PlatformerGame/Model/Gem.cs" Line="1" Column="1" />
+      <File FileName="PlatformerGame/Model/Gem.cs" Line="25" Column="3" />
       <File FileName="PlatformerGame/Model/Level.cs" Line="490" Column="24" />
-      <File FileName="PlatformerGame/Model/Player.cs" Line="76" Column="46" />
+      <File FileName="PlatformerGame/Model/Player.cs" Line="26" Column="22" />
       <File FileName="PlatformerGame/Model/RectangleExtensions.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Model/Tile.cs" Line="1" Column="1" />
       <File FileName="PlatformerGame/Controller/Program.cs" Line="14" Column="21" />
