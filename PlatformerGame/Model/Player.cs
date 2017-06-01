@@ -147,9 +147,9 @@ namespace Platformer
             localBounds = new Rectangle(left, top, width, height);
 
             // Load sounds.            
-            killedSound = Level.Content.Load<SoundEffect>("Sounds/iHaveABadFeeling");
+            killedSound = Level.Content.Load<SoundEffect>("Sounds/Darth Vader NO!");
             jumpSound = Level.Content.Load<SoundEffect>("Sounds/iHaveTheHighGround");
-            fallSound = Level.Content.Load<SoundEffect>("Sounds/PlayerFall");
+            fallSound = Level.Content.Load<SoundEffect>("Sounds/The Wilhelm scream sound effect");
         }
 
         /// <summary>

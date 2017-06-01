@@ -683,3 +683,15 @@
 /processorParam:Quality=Best
 /build:Sounds/iHaveABadFeeling
 
+#begin Sounds/Darth Vader NO!.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/Darth Vader NO!.mp3
+
+#begin Sounds/The Wilhelm scream sound effect.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:Sounds/The Wilhelm scream sound effect.mp3
+
